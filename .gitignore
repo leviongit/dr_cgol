@@ -1,0 +1,12 @@
+builds/
+logs/
+exceptions/
+*.gif
+.smaugignore
+*.toml
+ss/
+data/
+fonts/
+metadata/
+sounds/
+sprites/

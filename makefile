@@ -1,0 +1,2 @@
+do:
+	@smaug run
